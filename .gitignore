@@ -33,4 +33,5 @@ out/
 Thumbs.db
 
 #other
+.Archive
 application-local.yml
