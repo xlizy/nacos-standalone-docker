@@ -5,7 +5,7 @@ out/
 *.war
 *.zip
 *.tar
-*.tar.gz
+#*.tar.gz
 
 #log
 *.log
